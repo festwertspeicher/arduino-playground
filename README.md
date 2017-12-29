@@ -35,7 +35,7 @@ Wir starten zuerst mit der original Arduino Software und steigen später auf ein
 
 Es gibt eine sehr gute Anleitung, zum Installieren der Entwicklungsumgebung für [Linux](https://www.arduino.cc/en/Guide/Linux) und [Windows](https://www.arduino.cc/en/Guide/Windows) auf der offiziellen Webseite.
 
-###Fritzing
+### Fritzing
 
 Fritzing ist eine Open Source Software, um elektronische Schaltungen zu entwerfen. Die Software richtet sich an nicht professionelle Anwender und benutzt eine Steckplatinenansicht. Daraus können Schaltpläne und Leiterplatten generiert werden.
 
